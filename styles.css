@@ -5,9 +5,7 @@
 	margin : 20px;
    background-color: lightblue;
     padding: 50px ;
-    border: 15px solid blue;
-   
-	margin: 20px;
-	
-
+    border-width : 15px ;
+	border-style : solid;
+	border-color : blue;
    }
